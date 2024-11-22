@@ -8,8 +8,8 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Raj Thakee </span>
-            from <span className="purple"> San Francisco, California.</span>
+            Hi Everyone, I am <span className="purple">Raj Thaker </span>
+            from <span className="purple"> Kansas City, Missouri.</span>
             <br />
             <br />
             I studied Computer Science + Mathematics / Financial Engineering @ Washington University in St. Louis.
