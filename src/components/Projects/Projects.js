@@ -27,8 +27,8 @@ function Projects() {
               isBlog={false}
               title="CodeRoyale"
               description="AI interview coach and preparation tool for software engineering roles."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              ghLink="https://github.com/rajthaker13/ai-job-interview"
+              demoLink="https://www.coderoyale.xyz/"
             />
           </Col>
 
@@ -38,8 +38,8 @@ function Projects() {
               isBlog={false}
               title="Boondoggle AI"
               description="AI agents to automate CRM workflows and data hygiene scoring using LLMs, Vector Databases, and PyTorch."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              ghLink="https://github.com/rajthaker13/boondoggle"
+              demoLink="https://youtu.be/ve4MzRkR15Y"
             />
           </Col>
 
@@ -49,8 +49,8 @@ function Projects() {
               isBlog={false}
               title="Crewmate"
               description="No-code AI community manager co-pilot for brands."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"
+              ghLink="https://github.com/rajthaker13/crewmate-prod"
+              demoLink="https://crewmate.xyz/"
             />
           </Col>
 
@@ -60,8 +60,8 @@ function Projects() {
               isBlog={false}
               title="XChanger"
               description="Financial mobile app leveraging AI for portfolio management and monetization."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              // ghLink="https://github.com/soumyajit4419/Plant_AI"
+              demoLink="https://xchangerwebsite.web.app/"
             />
           </Col>
 
@@ -71,8 +71,8 @@ function Projects() {
               isBlog={false}
               title="Uncle Joe's App"
               description="Mental health resource app for university club featured in TIME magazine launched to incoming freshman class at orientation."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-            // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              // ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+              demoLink="https://uncle-joes-resource-app.vercel.app/"
             />
           </Col>
 
